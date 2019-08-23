@@ -1,6 +1,14 @@
 {
   "EOSIO": [
     {
+      "applink": "fintecapp.com",
+      "name": "EOS PIN INSERTION",
+      "type": "Game",
+      "description": "An Action Puzzele Gambling Game for EOS.",
+      "url": "https://www.fintecapp.com",
+      "hasimage": "1"
+    },
+    {
       "applink": "staker.one",
       "name": "Staker.One",
       "type": "Tool",
